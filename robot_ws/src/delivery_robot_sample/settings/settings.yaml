@@ -1,0 +1,6 @@
+#
+# Setting file for sample application
+# placed in robot_ws/src/delivery_robot_sample/settings
+#
+s3_bucket: deliverychallengevocstar-robomakerdeliverychallen-fkwveafc50l4
+s3_prefix: map_store
